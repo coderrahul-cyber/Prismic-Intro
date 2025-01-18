@@ -1,3 +1,5 @@
+### REFER TO :
+https://fizzi-course-slides.netlify.app/
 ## Prismic.io
 
 Prismic.io is a headless Content Management System (CMS) used in web development to manage and deliver content to websites and applications. It allows developers to create, edit, and organize content without being tied to a specific front-end framework or technology. Key features include:
@@ -32,3 +34,17 @@ A headless CMS is a type of CMS that provides content management capabilities wi
 - **Improved Collaboration**: Content teams and developers can work independently, improving productivity and collaboration.
 
 Prismic.io, as a headless CMS, provides these benefits, making it a powerful tool for modern web development.
+
+### What is a Slice and Slice Machine in Prismic?
+
+In Prismic, a **Slice** is a reusable component that represents a section of your content, such as a banner, text block, or image gallery. Slices allow you to build dynamic and flexible page layouts by combining different types of content blocks.
+
+The **Slice Machine** is a tool provided by Prismic that helps developers create and manage Slices more efficiently. It allows you to:
+
+- **Visually Create Slices**: Use a graphical interface to design and configure Slices without writing code.
+- **Generate Code**: Automatically generate the necessary code for your Slices, saving development time.
+- **Preview Changes**: Instantly preview how your Slices will look on your website, ensuring they meet your design requirements.
+
+By using Slices and the Slice Machine, you can create modular and maintainable content structures that make it easy to update and manage your website's content.
+
+
